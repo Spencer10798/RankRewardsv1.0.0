@@ -1,7 +1,7 @@
 /**
 * <author>Spencer Maghrouri</author>
 * <url>spencer@maghrouri.net</url>
-* <credits>LifX Example Server Mod</credits>
+* <credits>LifX Example Server Mod, CrownMessages</credits>
 * <description>This mod gives players gifts weekly depending on their rank</description>
 * <license>GNU GENERAL PUBLIC LICENSE Version 3, 29 June 2007</license>
 */
